@@ -1,0 +1,10 @@
+{
+  "domain": "direct4me",
+  "name": "Direct4me Integration",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/milosljubenovic/direct4me-ha",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@milosljubenovic"]
+}
